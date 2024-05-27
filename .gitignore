@@ -1,0 +1,8 @@
+*
+!*.*
+!*/
+.vscode
+*/example.cpp
+*/input.txt
+*/output.txt
+.DS_Store
